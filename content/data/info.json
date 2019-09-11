@@ -1,6 +1,6 @@
 {
   "description": "<p>A curated collection of the best graphic design from Poland</p>",
-  "cta": "<p><img src=\"/content/images/Haurykau-small.jpg\"></p>",
+  "cta": "<p><img src=\"/content/images/Haurykau-small.jpg\" title=\"NO\" alt=\"no\"></p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
